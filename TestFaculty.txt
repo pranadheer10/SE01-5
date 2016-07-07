@@ -1,0 +1,7 @@
+Patton,Peter,GSECS,PhD,6,6,3,,,3Professor,MTR,8,8,8
+Grounds,Nic,GSECS,M.S.,Associate Professor,MTR,6,6,6
+Martin,Jay,GSECS,PhD,Associate Professor,R,3,3,3
+Newberry,Byron,GSECS,PhD,Professor,MTR,3,3,3
+Nix,Robert,GSECS,PhD,Assistant Professor,MTWR,12,12,3
+North,David,GSECS,M.S.,Associate Professor,MTR,12,12,6
+Plumlee,Kevin,GSECS,PhD,Associate Professor,R,0,3,0
